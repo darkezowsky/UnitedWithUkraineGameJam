@@ -1,0 +1,1011 @@
+﻿Log file open, 04/07/22 21:26:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10704)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UnrealPunk
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/UnrealPunk.uproject" -EpicPortal -epicusername=darkezダニエル -epicuserid=f8cb8c48c24b44a5a336805c2c67897a -epiclocale=pl -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2cd2074f44b9cf1e8be381895b19a72f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.284675
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-53BD0A8B45E9121125B152AA578604E6
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=darkezダニエル -epicuserid=f8cb8c48c24b44a5a336805c2c67897a -epiclocale=pl -epicsandboxid=ue
+LogInit: Base Directory: Z:/Program Files/UE_5.0/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[r.DefaultFeature.AntiAliasing:1]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.04.07-19.26.08:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.04.07-19.26.08:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.04.07-19.26.08:087][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.04.07-19.26.08:088][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.04.07-19.26.08:090][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.04.07-19.26.08:106][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     SubSysId    : 12fb10de
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     SharedSystemMemory : 17145966592 bytes
+[2022.04.07-19.26.08:109][  0]LogD3D11RHI:     AdapterLuid : 0 61904
+[2022.04.07-19.26.08:200][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_1)
+[2022.04.07-19.26.08:200][  0]LogD3D11RHI:       5980/0/16351 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     Revision    : 0000
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     SharedSystemMemory : 17145966592 bytes
+[2022.04.07-19.26.08:201][  0]LogD3D11RHI:     AdapterLuid : 0 65053
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:       0/0/16351 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     SubSysId    : 12fb10de
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     SharedSystemMemory : 17145966592 bytes
+[2022.04.07-19.26.08:203][  0]LogD3D11RHI:     AdapterLuid : 0 61904
+[2022.04.07-19.26.08:203][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.07-19.26.08:203][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.04.07-19.26.08:203][  0]LogHAL: Display: Platform has ~ 32 GB [34291933184 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.07-19.26.08:203][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.04.07-19.26.08:203][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.04.07-19.26.08:203][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2022.04.07-19.26.08:203][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.04.07-19.26.08:203][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.04.07-19.26.08:203][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.04.07-19.26.08:203][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2022.04.07-19.26.08:204][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.04.07-19.26.08:204][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.04.07-19.26.08:204][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.04.07-19.26.08:204][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.04.07-19.26.08:204][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.04.07-19.26.08:204][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.04.07-19.26.08:204][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.07-19.26.08:204][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.04.07-19.26.08:204][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2022.04.07-19.26.08:205][  0]LogInit: Computer: DESKTOP-SH8K3CK
+[2022.04.07-19.26.08:205][  0]LogInit: User: darkez
+[2022.04.07-19.26.08:205][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.04.07-19.26.08:205][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.07-19.26.08:205][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.04.07-19.26.08:205][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.04.07-19.26.08:205][  0]LogMemory: Process Physical Memory: 253.23 MB used, 260.07 MB peak
+[2022.04.07-19.26.08:205][  0]LogMemory: Process Virtual Memory: 199.00 MB used, 199.00 MB peak
+[2022.04.07-19.26.08:205][  0]LogMemory: Physical Memory: 15332.56 MB used,  17370.77 MB free, 32703.34 MB total
+[2022.04.07-19.26.08:205][  0]LogMemory: Virtual Memory: 23717.88 MB used,  17942.77 MB free, 41660.64 MB total
+[2022.04.07-19.26.08:205][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.04.07-19.26.08:255][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.07-19.26.08:271][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.04.07-19.26.08:271][  0]LogInit: Using OS detected language (pl-PL).
+[2022.04.07-19.26.08:271][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.04.07-19.26.08:273][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so 'pl' will be used for the language.
+[2022.04.07-19.26.08:274][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2022.04.07-19.26.08:274][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2022.04.07-19.26.08:274][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2022.04.07-19.26.08:274][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2022.04.07-19.26.08:274][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2022.04.07-19.26.08:274][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2022.04.07-19.26.08:274][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2022.04.07-19.26.08:275][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.07-19.26.08:289][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.04.07-19.26.08:289][  0]LogWindowsTextInputMethodSystem:   - Polski (Polska) - (Keyboard).
+[2022.04.07-19.26.08:289][  0]LogWindowsTextInputMethodSystem:   - Polski (Polska) - Korekta wprowadzania dotykowego (TSF IME).
+[2022.04.07-19.26.08:289][  0]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2022.04.07-19.26.08:303][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.07-19.26.08:303][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.07-19.26.08:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.07-19.26.08:485][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.07-19.26.08:485][  0]LogWindows: EnumDisplayDevices:
+[2022.04.07-19.26.08:485][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2022.04.07-19.26.08:485][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2022.04.07-19.26.08:485][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.04.07-19.26.08:486][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.04.07-19.26.08:486][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:   Driver Version: 511.65 (internal:30.0.15.1165, unified:511.65)
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:      Driver Date: 1-28-2022
+[2022.04.07-19.26.08:486][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     DeviceId    : 1f08
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     SubSysId    : 12fb10de
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     SharedSystemMemory : 17145966592 bytes
+[2022.04.07-19.26.08:486][  0]LogD3D11RHI:     AdapterLuid : 0 61904
+[2022.04.07-19.26.08:535][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.07-19.26.08:535][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.07-19.26.08:535][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.04.07-19.26.08:535][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.07-19.26.08:536][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2022.04.07-19.26.08:561][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.07-19.26.08:603][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.07-19.26.08:610][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/UnrealPunk.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/TurnkeyReport_0.log" -log="Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/TurnkeyLog_0.log" -project="Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/UnrealPunk.uproject"  -platform=all'
+[2022.04.07-19.26.08:610][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""Z:/Program Files/UE_5.0/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/UnrealPunk.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/TurnkeyReport_0.log" -log="Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/TurnkeyLog_0.log" -project="Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/UnrealPunk.uproject"  -platform=all" ]
+[2022.04.07-19.26.08:636][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.04.07-19.26.08:648][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.04.07-19.26.08:648][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.07-19.26.08:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.07-19.26.08:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.04.07-19.26.08:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.04.07-19.26.08:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.07-19.26.08:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.07-19.26.08:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.07-19.26.08:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.04.07-19.26.08:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.07-19.26.08:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.07-19.26.08:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.04.07-19.26.08:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.04.07-19.26.08:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.04.07-19.26.08:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.07-19.26.08:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.07-19.26.08:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.07-19.26.08:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.04.07-19.26.08:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.07-19.26.08:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.07-19.26.08:698][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.04.07-19.26.08:707][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.07-19.26.08:710][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.04.07-19.26.08:710][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.04.07-19.26.08:710][  0]LogTargetPlatformManager:   ADPCM
+[2022.04.07-19.26.08:710][  0]LogTargetPlatformManager:   PCM
+[2022.04.07-19.26.08:713][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.04.07-19.26.08:713][  0]LogTargetPlatformManager:   BINKA
+[2022.04.07-19.26.08:713][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.04.07-19.26.08:713][  0]LogTargetPlatformManager:   OGG
+[2022.04.07-19.26.08:713][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.04.07-19.26.08:713][  0]LogTargetPlatformManager:   OPUS
+[2022.04.07-19.26.08:750][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   SF_METAL
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.04.07-19.26.08:755][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.04.07-19.26.08:760][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.04.07-19.26.08:760][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.04.07-19.26.08:760][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.04.07-19.26.08:760][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.04.07-19.26.08:760][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.04.07-19.26.08:760][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.04.07-19.26.08:760][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.04.07-19.26.08:760][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.07-19.26.08:760][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.04.07-19.26.08:761][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.04.07-19.26.08:761][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.04.07-19.26.08:761][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.04.07-19.26.08:762][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.04.07-19.26.08:762][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.04.07-19.26.08:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.07-19.26.08:765][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.04.07-19.26.08:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.07-19.26.08:765][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.04.07-19.26.08:783][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.04.07-19.26.08:783][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.07-19.26.08:783][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.04.07-19.26.08:791][  0]LogDerivedDataCache: Speed tests for C:/Users/darkez/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.04.07-19.26.08:791][  0]LogDerivedDataCache: Display: Performance to C:/Users/darkez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=284.96MBs, RandomWriteSpeed=199.20MBs. Assigned SpeedClass 'Local'
+[2022.04.07-19.26.08:792][  0]LogDerivedDataCache: Using Local data cache path C:/Users/darkez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.07-19.26.08:792][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.07-19.26.08:792][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.04.07-19.26.08:799][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.04.07-19.26.08:799][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.04.07-19.26.08:800][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/Intermediate/Shaders/WorkingDirectory/21252/).
+[2022.04.07-19.26.08:800][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/darkez/AppData/Local/Temp/UnrealShaderWorkingDir/9DF9FEC64D96418388B1EA8BD0F155D3/'.
+[2022.04.07-19.26.08:800][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.07-19.26.08:800][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.04.07-19.26.10:262][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.04.07-19.26.10:262][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.07-19.26.10:262][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.07-19.26.10:303][  0]LogAssetRegistry: FAssetRegistry took 0.0141 seconds to start up
+[2022.04.07-19.26.10:309][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (Pawn) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (Spectator) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (CharacterMesh) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (InvisibleWall) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (InvisibleWallDynamic) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (Ragdoll) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (UI) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (ALS_Character) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:660][  0]LogCollisionProfile: Warning: Profile (ALS_Prop) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.04.07-19.26.10:661][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.04.07-19.26.10:662][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.04.07-19.26.11:053][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.04.07-19.26.11:053][  0]LogDeviceProfileManager: Active device profile: [00000929C7B49F40][00000929BF270000 50] WindowsEditor
+[2022.04.07-19.26.11:053][  0]LogDeviceProfileManager: Profiles: [00000929C7B49A00][00000929BF275000 50] Windows, [00000929C7B49F40][00000929BF270000 50] WindowsEditor, [00000929C7B46900][00000929BF1E7800 50] WindowsServer, [00000929C7B49680][00000929C1AFC800 50] WindowsClient, [00000929C7B45940][00000929B2587800 50] IOS, [00000929C7B494C0][00000929BA440000 50] iPadAir2, [00000929C7B49300][00000929C7F30000 50] IPadPro, [00000929C7B46580][00000929C7F32800 50] iPadAir3, [00000929C7B49840][00000929C7F37800 50] iPadAir4, [00000929C7B4A480][00000929C7F3A000 50] iPadMini4, [00000929C7B463C0][00000929C7F3C800 50] iPadMini5, [00000929C7B46740][00000929BF272800 50] iPadMini6, [00000929C7B4D200][00000929C7F52800 50] iPhone6S, [00000929C7B4D580][00000929C7F50000 50] iPhone7, [00000929C7B4D900][00000929C7F55000 50] iPodTouch7, [00000929C7B47C40][00000929C7F5A000 50] iPhone6SPlus, [00000929C7B4C940][00000929C7F5C800 50] iPhone7Plus, [00000929C7B46200][00000929C7F35000 50] iPhoneSE, [00000929C7B45400][00000929C7F57800 50] iPhone8, [00000929C7B4C780][00000929C7F00000 50] iPhone8Plus, [00000929C7B4A100][00000929C7F05000 50] iPhoneX, [00000929C7B47E00][00000929C7F07800 50] iPhoneXS, [00000929C7B4CB00][00000929C7F0A000 50] iPhoneXSMax, [00000929C7B45B00][00000929C7F0C800 50] iPhoneXR, [00000929C7B4D740][00000929BF11C800 50] iPhone11, [00000929C7B4C080][00000929C7F60000 50] iPhone11Pro, [00000929C7B48340][00000929C7F65000 50] iPhone11ProMax, [00000929C7B4AF00][00000929C7F67800 50] iPhoneSE2, [00000929C7B45780][00000929C7F6A000 50] iPhone12Mini, [00000929C7B4AD40][00000929C7F6C800 50] iPhone12, [00000929C7B47540][00000929C7F02800 50] iPhone12Pro, [00000929C7B455C0][00000929C7F70000 50] iPhone12ProMax, [00000929C7B4A800][00000929C7F75000 50] iPhone13Mini, [00000929C7B478C0][00000929C7F77800 50] iPhone13, [00000929C7B47700][00000929C7F7A000 50] iPhone13Pro, [00000929C7B4B440][00000929C7F7C800 50] iPhone13ProMax, [00000929C7B47380][00000929C7F62800 50] iPadPro105, [00000929C7B48500][00000929C7F90000 50] iPadPro129, [00000929C7B46E40][00000929C7F95000 50] iPadPro97, [00000929C7B4B980][00000929C7F97800 50] iPadPro2_129, [00000929C7B4CE80][00000929C7F9A000 50] iPad5, [00000929C7B48880][00000929C7F9C800 50] iPad6, [00000929C7B4BEC0][00000929C7F72800 50] iPad7, [00000929C7B48DC0][00000929C7F80000 50] iPad8, [00000929C7B4C400][00000929C7F85000 50] iPad9, [00000929C7B4A9C0][00000929C7F87800 50] iPadPro11, [00000929C7B4A640][00000929C7F8A000 50] iPadPro2_11, [00000929C7B46AC0][00000929C7F8C800 50] iPadPro3_11, [00000929C7B4C240][00000929C7F92800 50] iPadPro3_129, [00000929C7B4D3C0][00000929C7FA0000 50] iPadPro4_129, [00000929C7B4DAC0][00000929C7FA5000 50] iPadPro5_129, [00000929C7B4B0C0][00000929C7FA7800 50] AppleTV, [00000929C7B49140][00000929C7FAA000 50] AppleTV4K, [00000929C7B46C80][00000929C7FAC800 50] TVOS, [00000929C7B4F340][00000929C7FC0000 50] Mac, [00000929C7B4F6C0][00000929C7FC2800 50] MacEditor, [00000929C7B48180][00000929C7FC7800 50] MacClient, [00000929C7B47FC0][00000929C7FCA000 50] MacServer, [00000929C7B4FA40][00000929C7F82800 50] Linux, [00000929C7B4FDC0][00000929C7FA2800 50] LinuxEditor, [00000929C7B4B7C0][00000929C7FCC800 50] LinuxArm64Editor, [00000929C7B4E8C0][00000929C7FB0000 50] LinuxArm64, [00000929C7B4F880][00000929C7FB5000 50] LinuxClient, [00000929C7B4B600][00000929C7FB7800 50] LinuxArm64Client, [00000929C7B4EE00][00000929C7FBA000 50] LinuxServer, [00000929C7B4F500][00000929C7FBC800 50] LinuxArm64Server, [00000929C7B45E80][00000929C7FC5000 50] Android, [00000929C7B4E000][00000929C7FD0000 50] Android_Preview_OpenGL, [00000929C7B47A80][00000929C7FD5000 50] Android_Preview_Vulkan, [00000929C7B4EFC0][00000929C7FD7800 50] Android_Low, [00000929C7B4F180][00000929C7FDA000 50] Android_Mid, [00000929C7B4FC00][00000929C7FDC800 50] Android_High, [00000929C7B4DE40][00000929C7FB2800 50] Android_Default, [00000929C7B45CC0][00000929C7FE0000 50] Android_Adreno4xx, [00000929C7B4AB80][00000929C7FE5000 50] Android_Adreno5xx_Low, [00000929C7B4E1C0][00000929C7FE7800 50] Android_Adreno5xx, [00000929C7B4EA80][00000929C7FEA000 50] Android_Adreno6xx, [00000929C7B47000][00000929C7FEC800 50] Android_Adreno6xx_Vulkan, [00000929C7B4E380][00000929C7FD2800 50] Android_Adreno7xx, [00000929C7B4B280][00000929C7FF0000 50] Android_Adreno7xx_Vulkan, [00000929C7B4CCC0][00000929C7FF5000 50] Android_Mali_T6xx, [00000929C8020000][00000929C7FF7800 50] Android_Mali_T7xx, [00000929C8022300][00000929C7FFA000 50] Android_Mali_T8xx, [00000929C8022140][00000929C7FFC800 50] Android_Mali_G71, [00000929C8021F80][00000929C7FE2800 50] Android_Mali_G72, [00000929C8021DC0][00000929C8010000 50] Android_Mali_G72_Vulkan, [00000929C8021C00][00000929C8015000 50] Android_Mali_G76, [00000929C8021A40][00000929C8017800 50] Android_Mali_G76_Vulkan, [00000929C80224C0][00000929C801A000 50] Android_Mali_G77, [00000929C8020C40][00000929C801C800 50] Android_Mali_G77_Vulkan, [00000929C8022D80][00000929C7FF2800 50] Android_Mali_G78, [00000929C8020A80][00000929C8030000 50] Android_Mali_G78_Vulkan, [00000929C8020E00][00000929C8035000 50] Android_Mali_G710, [00000929C8021340][00000929C8037800 50] Android_Mali_G710_Vulkan, [00000929C80201C0][00000929C803A000 50] Android_Xclipse_920, [00000929C8023480][00000929C803C800 50] Android_Xclipse_920_Vulkan, [00000929C8023640][00000929C8012800 50] Android_Vulkan_SM5, [00000929C8022A00][00000929C8040000 50] Android_PowerVR_G6xxx, [00000929C8021880][00000929C8045000 50] Android_PowerVR_GT7xxx, [00000929C8023D40][00000929C8047800 50] Android_PowerVR_GE8xxx, [00000929C8020700][00000929C804A000 50] Android_PowerVR_GM9xxx, [00000929C8020540][00000929C804C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000929C8022BC0][00000929C8032800 50] Android_TegraK1, [00000929C8024440][00000929C8050000 50] Android_Unknown_Vulkan, [00000929C8023100][00000929C8055000 50] Oculus_Quest, [00000929C8022680][00000929C8057800 50] Oculus_Quest2, [00000929C8024D00][00000929C805A000 50] HoloLens, 
+[2022.04.07-19.26.11:054][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.04.07-19.26.11:078][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.04.07-19.26.11:451][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.07-19.26.11:451][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.07-19.26.11:451][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.07-19.26.11:451][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.07-19.26.11:451][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.07-19.26.11:476][  0]LogNetVersion: UnrealPunk 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3835249176)
+[2022.04.07-19.26.11:690][  0]LogSlate: Border
+[2022.04.07-19.26.11:690][  0]LogSlate: BreadcrumbButton
+[2022.04.07-19.26.11:690][  0]LogSlate: Default
+[2022.04.07-19.26.11:690][  0]LogSlate: Icons.Save
+[2022.04.07-19.26.11:690][  0]LogSlate: Icons.Toolbar.Settings
+[2022.04.07-19.26.11:690][  0]LogSlate: ListView
+[2022.04.07-19.26.11:690][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.04.07-19.26.11:690][  0]LogSlate: SoftwareCursor_Grab
+[2022.04.07-19.26.11:690][  0]LogSlate: TableView.DarkRow
+[2022.04.07-19.26.11:690][  0]LogSlate: TableView.Row
+[2022.04.07-19.26.11:690][  0]LogSlate: TreeView
+[2022.04.07-19.26.11:981][  0]SourceControl: Source control is disabled
+[2022.04.07-19.26.12:033][  0]SourceControl: Source control is disabled
+[2022.04.07-19.26.12:033][  0]SourceControl: Source control is disabled
+[2022.04.07-19.26.12:260][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.04.07-19.26.12:260][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.04.07-19.26.12:260][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.07-19.26.12:825][  0]LogPython: Using Python 3.9.7
+[2022.04.07-19.26.14:259][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 18E63D4A4E774A8A6C7EC9848DE06237 | Instance: 23DC4BDC4046CEF45E206F97A081B7AE (DESKTOP-SH8K3CK-21252).
+[2022.04.07-19.26.14:331][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.07-19.26.14:370][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.07-19.26.14:719][  0]SourceControl: Source control is disabled
+[2022.04.07-19.26.14:724][  0]SourceControl: Source control is disabled
+[2022.04.07-19.26.14:730][  0]SourceControl: Source control is disabled
+[2022.04.07-19.26.14:751][  0]LogUProjectInfo: Found projects:
+[2022.04.07-19.26.14:941][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.07-19.26.15:036][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.07-19.26.15:083][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.07-19.26.15:083][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.07-19.26.15:255][  0]LogCollectionManager: Loaded 0 collections in 0.001371 seconds
+[2022.04.07-19.26.15:382][  0]LogFileCache: Scanning file cache for directory 'Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Saved/Collections/' took 0.00s
+[2022.04.07-19.26.15:382][  0]LogFileCache: Scanning file cache for directory 'Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Content/Developers/darkez/Collections/' took 0.00s
+[2022.04.07-19.26.15:382][  0]LogFileCache: Scanning file cache for directory 'Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Content/Collections/' took 0.00s
+[2022.04.07-19.26.15:899][  0]LogEngine: Initializing Engine...
+[2022.04.07-19.26.15:927][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.07-19.26.16:230][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.07-19.26.16:230][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.07-19.26.16:241][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.07-19.26.16:274][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.07-19.26.16:275][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.07-19.26.16:303][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.07-19.26.16:303][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.07-19.26.16:304][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.04.07-19.26.16:304][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.07-19.26.16:304][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.07-19.26.16:304][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.07-19.26.16:304][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.07-19.26.16:304][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.07-19.26.16:304][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.07-19.26.16:304][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.07-19.26.16:304][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.07-19.26.16:304][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.07-19.26.16:304][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.07-19.26.16:305][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.07-19.26.16:305][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.07-19.26.16:305][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.07-19.26.16:311][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.07-19.26.16:368][  0]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek High Definition Audio)
+[2022.04.07-19.26.16:368][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.07-19.26.16:371][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.07-19.26.16:371][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.07-19.26.16:371][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.04.07-19.26.16:371][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.04.07-19.26.16:372][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.07-19.26.16:372][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.04.07-19.26.16:372][  0]LogInit: FAudioDevice initialized.
+[2022.04.07-19.26.16:372][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.07-19.26.16:372][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.07-19.26.16:373][  0]LogInit: Texture streaming: Enabled
+[2022.04.07-19.26.16:411][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.04.07-19.26.16:423][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.07-19.26.16:452][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.04.07-19.26.16:463][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.04.07-19.26.16:463][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.04.07-19.26.18:935][  0]LogLiveCoding: Display: First instance in process group "UE_UnrealPunk_0xb230994a", spawning console
+[2022.04.07-19.26.18:935][  0]LogLiveCoding: Display: Waiting for server
+[2022.04.07-19.26.18:935][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.04.07-19.26.18:940][  0]LogInit: Transaction tracking system initialized
+[2022.04.07-19.26.19:027][  0]BlueprintLog: New page: Editor Load
+[2022.04.07-19.26.19:282][  0]LocalizationService: Localization service is disabled
+[2022.04.07-19.26.19:340][  0]TimingProfiler: Initialize
+[2022.04.07-19.26.19:340][  0]TimingProfiler: OnSessionChanged
+[2022.04.07-19.26.19:340][  0]LoadingProfiler: Initialize
+[2022.04.07-19.26.19:340][  0]LoadingProfiler: OnSessionChanged
+[2022.04.07-19.26.19:340][  0]NetworkingProfiler: Initialize
+[2022.04.07-19.26.19:340][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.07-19.26.19:340][  0]MemoryProfiler: Initialize
+[2022.04.07-19.26.19:341][  0]MemoryProfiler: OnSessionChanged
+[2022.04.07-19.26.20:099][  0]LogFileCache: Scanning file cache for directory 'Z:/15.Unreal Projects/ProjectF/UnrealPunk 5.0/Content/' took 0.01s
+[2022.04.07-19.26.20:099][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.04.07-19.26.20:212][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.07-19.26.20:215][  0]SourceControl: Source control is disabled
+[2022.04.07-19.26.20:215][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.672
+[2022.04.07-19.26.20:215][  0]Cmd: MAP LOAD FILE="../../../../../../15.Unreal Projects/ProjectF/UnrealPunk 5.0/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.07-19.26.20:215][  0]LightingResults: New page: Lighting Build
+[2022.04.07-19.26.20:222][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.07-19.26.20:222][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.07-19.26.20:222][  0]MapCheck: New page: Map Check
+[2022.04.07-19.26.20:222][  0]LightingResults: New page: Lighting Build
+[2022.04.07-19.26.20:228][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.07-19.26.20:230][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.07-19.26.20:627][  0]LogBlueprint: Warning: [AssetLog] Z:\15.Unreal Projects\ProjectF\UnrealPunk 5.0\Content\AdvancedLocomotionV4\Blueprints\AnimModifiers\Calculate_RotationAmount.uasset: [Compiler] Finalize Bone Animation : Usage of 'Finalize Bone Animation' has been deprecated. FinalizeBoneAnimation has been deprecated, use UAnimDataController instead
+[2022.04.07-19.26.22:669][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Walk_05...
+[2022.04.07-19.26.22:669][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05.Concrete_Walk_05 will be modified from 40 to 40.
+[2022.04.07-19.26.22:691][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 73700 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05.Concrete_Walk_05.
+[2022.04.07-19.26.22:692][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05.Concrete_Walk_05: 262144
+[2022.04.07-19.26.22:770][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Materials/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:770][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Click...
+[2022.04.07-19.26.22:771][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/UI/Click.Click will be modified from 40 to 40.
+[2022.04.07-19.26.22:792][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 288288 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/UI/Click.Click.
+[2022.04.07-19.26.22:792][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/UI/Click.Click: 262144
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Blueprints/UI/Arrow.Arrow (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.ALS_DemoLevel_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.ALS_DemoLevel_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.ALS_DemoLevel_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.ALS_DemoLevel_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.ALS_DemoLevel_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.ALS_DemoLevel_BuiltData:SkyOcclusion1_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.ALS_DemoLevel_BuiltData:ShadowMapTexture2D_6 (G8, 256X64 X1X1) (Required Memory Estimate: 0.104175 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_BuiltData.ALS_DemoLevel_BuiltData:ShadowMapTexture2D_7 (G8, 32X32 X1X1) (Required Memory Estimate: 0.006509 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:831][  0]LogNavigation: Warning: RecastNavMesh /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.RecastNavMesh-Default: ARecastNavMesh: Nav mesh version 13 < Min compatible 20. Nav mesh needs to be rebuilt. 
+
+[2022.04.07-19.26.22:854][  0]LogTexture: Display: Building textures: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.Landscape_1.Texture2D_0 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.04.07-19.26.22:854][  0]LogMaterial: Display: Missing cached shadermap for M_AnimMan_Default in PCD3D_SM5, Default, SM5 (DDC key hash: D4E2D2B155B52B96C7C93AA62A4B8DBACCB0DB6B), compiling. 
+[2022.04.07-19.26.22:993][  0]LogMaterial: Display: Missing cached shadermap for M_AnimMan_Eyes in PCD3D_SM5, Default, SM5 (DDC key hash: 90C07F27B4BDCAE426F3E1437EC3BBEBEE03DD4C), compiling. 
+[2022.04.07-19.26.23:690][  0]LogSkeletalMesh: Building Skeletal Mesh Proxy...
+[2022.04.07-19.26.23:690][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/Proxy.Proxy
+[2022.04.07-19.26.23:690][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_LandRoll_F.ALS_N_LandRoll_F
+[2022.04.07-19.26.23:690][  0]LogSkeletalMesh: Building Skeletal Mesh AnimMan...
+[2022.04.07-19.26.23:690][  0]LogMaterial: Display: Missing cached shadermap for M_Mannequin_Body in PCD3D_SM5, Default, SM5 (DDC key hash: E5EEF903F5C1B2B391B441D4C83BFD85C908F5D9), compiling. 
+[2022.04.07-19.26.23:751][  0]LogMaterial: Display: Missing cached shadermap for M_Mannequin_Logo in PCD3D_SM5, Default, SM5 (DDC key hash: 13FC115C857DEE6FB2315D7BBCE73F14551C1A67), compiling. 
+[2022.04.07-19.26.23:898][  0]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.AnimMan
+[2022.04.07-19.26.23:898][  0]LogSkeletalMesh: Building Skeletal Mesh Mannequin...
+[2022.04.07-19.26.23:898][  0]LogMaterial: Display: Missing cached shadermap for M_Prop in PCD3D_SM5, Default, SM5 (DDC key hash: 9C6672B31E8541CAC7482E86EEE9BF21D6FE57F2), compiling. 
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/Mannequin.Mannequin
+[2022.04.07-19.26.24:115][  0]LogStaticMesh: Display: Building static mesh Barrel...
+[2022.04.07-19.26.24:115][  0]LogStaticMesh: Display: Building static mesh Binoculars...
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Building Skeletal Mesh Bow...
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AdvancedLocomotionV4/Props/Meshes/Bow.Bow
+[2022.04.07-19.26.24:115][  0]LogStaticMesh: Display: Building static mesh Box...
+[2022.04.07-19.26.24:115][  0]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedLocomotionV4/Props/Meshes/Box.Box
+[2022.04.07-19.26.24:115][  0]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedLocomotionV4/Props/Meshes/Barrel.Barrel
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Building Skeletal Mesh M4A1...
+[2022.04.07-19.26.24:115][  0]LogStaticMesh: Built static mesh [0.08s] /Game/AdvancedLocomotionV4/Props/Meshes/Binoculars.Binoculars
+[2022.04.07-19.26.24:115][  0]LogStaticMesh: Display: Building static mesh Torch...
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Building Skeletal Mesh M9...
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AdvancedLocomotionV4/Props/Meshes/M4A1.M4A1
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AdvancedLocomotionV4/Props/Meshes/M9.M9
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Building Skeletal Mesh Camera...
+[2022.04.07-19.26.24:115][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera.Camera
+[2022.04.07-19.26.24:115][  0]LogStaticMesh: Built static mesh [0.05s] /Game/AdvancedLocomotionV4/Props/Meshes/Torch.Torch
+[2022.04.07-19.26.24:115][  0]LogMaterial: Display: Missing cached shadermap for M_Tiles in PCD3D_SM5, Default, SM5 (DDC key hash: 3EF839636D6164FA0A4FA5CBF336C6AC5902B601), compiling. 
+[2022.04.07-19.26.24:186][  0]LogStaticMesh: Display: Building static mesh Simple_Block_3x3...
+[2022.04.07-19.26.24:186][  0]LogStaticMesh: Display: Building static mesh Simple_Block_1x1...
+[2022.04.07-19.26.24:186][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Block_3x3.Simple_Block_3x3
+[2022.04.07-19.26.24:186][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Block_1x1.Simple_Block_1x1
+[2022.04.07-19.26.24:186][  0]LogMaterial: Display: Missing cached shadermap for M_Object in PCD3D_SM5, Default, SM5 (DDC key hash: 5DC92809774F4208EDA395928C6F498A39C2A1FD), compiling. 
+[2022.04.07-19.26.24:250][  0]LogMaterial: Display: Missing cached shadermap for M_OutlinedText in PCD3D_SM5, Default, SM5 (DDC key hash: A13B5D088A7913A788FCF84F9D551E88422EFCA1), compiling. 
+[2022.04.07-19.26.24:308][  0]LogStaticMesh: Display: Building static mesh Complex_Arch_01...
+[2022.04.07-19.26.24:308][  0]LogStaticMesh: Display: Building static mesh Complex_Arch_02...
+[2022.04.07-19.26.24:308][  0]LogStaticMesh: Display: Building static mesh Complex_Barrel...
+[2022.04.07-19.26.24:308][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Arch_01.Complex_Arch_01
+[2022.04.07-19.26.24:308][  0]LogStaticMesh: Display: Building static mesh Complex_Barrel_Broken...
+[2022.04.07-19.26.24:308][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Arch_02.Complex_Arch_02
+[2022.04.07-19.26.24:308][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Barrel.Complex_Barrel
+[2022.04.07-19.26.24:308][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 75A8C0065E2A5ADBE3CABAF9CD549B7D620CB2AF), compiling. 
+[2022.04.07-19.26.24:458][  0]LogStaticMesh: Display: Building static mesh Complex_Bench...
+[2022.04.07-19.26.24:458][  0]LogStaticMesh: Display: Building static mesh Complex_Cart...
+[2022.04.07-19.26.24:458][  0]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Barrel_Broken.Complex_Barrel_Broken
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Complex_Crate...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Cart.Complex_Cart
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Crate.Complex_Crate
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Complex_Crate_Broken...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Complex_Fountain_01...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Crate_Broken.Complex_Crate_Broken
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Complex_Rock...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Bench.Complex_Bench
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Fountain_01.Complex_Fountain_01
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Simple_Block_2x2...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Block_2x2.Simple_Block_2x2
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Simple_InfoWall_3x5...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Simple_Floor_20x20...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Rock.Complex_Rock
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_InfoWall_3x5.Simple_InfoWall_3x5
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Floor_20x20.Simple_Floor_20x20
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Simple_Pillar...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Simple_TitleBoard...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Display: Building static mesh Simple_Wall_2x20...
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Pillar.Simple_Pillar
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_TitleBoard.Simple_TitleBoard
+[2022.04.07-19.26.24:459][  0]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Wall_2x20.Simple_Wall_2x20
+[2022.04.07-19.26.24:464][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Step_01...
+[2022.04.07-19.26.24:464][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_01.Concrete_Step_01 will be modified from 40 to 40.
+[2022.04.07-19.26.24:483][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 68868 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_01.Concrete_Step_01.
+[2022.04.07-19.26.24:483][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_01.Concrete_Step_01: 262144
+[2022.04.07-19.26.24:485][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Step_02...
+[2022.04.07-19.26.24:485][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_02.Concrete_Step_02 will be modified from 40 to 40.
+[2022.04.07-19.26.24:506][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 71198 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_02.Concrete_Step_02.
+[2022.04.07-19.26.24:506][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_02.Concrete_Step_02: 262144
+[2022.04.07-19.26.24:508][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Step_03...
+[2022.04.07-19.26.24:508][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_03.Concrete_Step_03 will be modified from 40 to 40.
+[2022.04.07-19.26.24:531][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 77218 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_03.Concrete_Step_03.
+[2022.04.07-19.26.24:532][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_03.Concrete_Step_03: 262144
+[2022.04.07-19.26.24:533][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Walk_01...
+[2022.04.07-19.26.24:534][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_01.Concrete_Walk_01 will be modified from 40 to 40.
+[2022.04.07-19.26.24:560][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 141012 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_01.Concrete_Walk_01.
+[2022.04.07-19.26.24:560][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_01.Concrete_Walk_01: 262144
+[2022.04.07-19.26.24:561][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Walk_02...
+[2022.04.07-19.26.24:562][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_02.Concrete_Walk_02 will be modified from 40 to 40.
+[2022.04.07-19.26.24:590][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 140954 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_02.Concrete_Walk_02.
+[2022.04.07-19.26.24:590][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_02.Concrete_Walk_02: 262144
+[2022.04.07-19.26.24:591][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Walk_03...
+[2022.04.07-19.26.24:592][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_03.Concrete_Walk_03 will be modified from 40 to 40.
+[2022.04.07-19.26.24:619][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 132036 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_03.Concrete_Walk_03.
+[2022.04.07-19.26.24:620][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_03.Concrete_Walk_03: 262144
+[2022.04.07-19.26.24:621][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Walk_04...
+[2022.04.07-19.26.24:621][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_04.Concrete_Walk_04 will be modified from 40 to 40.
+[2022.04.07-19.26.24:650][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 130504 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_04.Concrete_Walk_04.
+[2022.04.07-19.26.24:651][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_04.Concrete_Walk_04: 262144
+[2022.04.07-19.26.24:652][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Pivot_01...
+[2022.04.07-19.26.24:652][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_01.Concrete_Pivot_01 will be modified from 40 to 40.
+[2022.04.07-19.26.24:668][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 42076 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_01.Concrete_Pivot_01.
+[2022.04.07-19.26.24:669][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_01.Concrete_Pivot_01: 262144
+[2022.04.07-19.26.24:670][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Pivot_02...
+[2022.04.07-19.26.24:671][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_02.Concrete_Pivot_02 will be modified from 40 to 40.
+[2022.04.07-19.26.24:685][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 41886 while cooking SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_02.Concrete_Pivot_02.
+[2022.04.07-19.26.24:686][  0]LogAudio: Display: Chunk size for SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_02.Concrete_Pivot_02: 262144
+[2022.04.07-19.26.24:729][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ALS_DemoLevel'.
+[2022.04.07-19.26.24:730][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.07-19.26.24:730][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.07-19.26.24:730][  0]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2022.04.07-19.26.24:784][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.07-19.26.24:857][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.04.07-19.26.24:858][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.07-19.26.24:859][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,157ms to complete.
+[2022.04.07-19.26.24:859][  0]LogFileHelpers: Loading map 'ALS_DemoLevel' took 4.644
+[2022.04.07-19.26.24:885][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.343
+[2022.04.07-19.26.24:885][  0]LogShaderCompilers: Display: ================================================
+[2022.04.07-19.26.24:885][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.07-19.26.24:885][  0]LogShaderCompilers: Display: Total job queries 400, among them cache hits 0 (0.00%)
+[2022.04.07-19.26.24:885][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.04.07-19.26.24:886][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.04.07-19.26.24:886][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.07-19.26.24:886][  0]LogShaderCompilers: Display: Shaders Compiled: 346
+[2022.04.07-19.26.24:886][  0]LogShaderCompilers: Display: Jobs assigned 50, completed 0 (0.00%)
+[2022.04.07-19.26.24:886][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2022.04.07-19.26.24:886][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.04.07-19.26.24:886][  0]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.04.07-19.26.24:886][  0]LogShaderCompilers: Display: ================================================
+[2022.04.07-19.26.25:094][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-19.26.25:111][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-19.26.25:125][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-19.26.25:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.07-19.26.25:203][  0]LogSlate: The tab "/Game/BlueprintUtilities/EUW_MHCQualitySettings.EUW_MHCQualitySettings_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.04.07-19.26.26:919][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:919][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.26:930][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:930][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.26:940][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:940][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.26:948][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:948][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.26:963][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:963][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.26:975][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:975][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.26:983][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:983][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.26:989][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:990][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.26:998][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.04.07-19.26.26:998][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.27:005][  0]LogPakFile: Display: Mounted Pak file 'Z:/Program Files/UE_5.0/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.04.07-19.26.27:005][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.04.07-19.26.29:704][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.04.07-19.26.30:042][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.07-19.26.30:057][  0]LogSlate: Took 0.007539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.07-19.26.30:071][  0]LogSlate: Took 0.011598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.07-19.26.30:842][  0]LogStall: Startup...
+[2022.04.07-19.26.30:844][  0]LogStall: Startup complete.
+[2022.04.07-19.26.30:910][  0]LogLoad: (Engine Initialization) Total time: 24.37 seconds
+[2022.04.07-19.26.30:910][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.07-19.26.30:984][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_2m.ALS_N_Mantle_2m
+[2022.04.07-19.26.30:984][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_1m_LH.ALS_N_Mantle_1m_LH
+[2022.04.07-19.26.30:984][  0]LogAssetRegistry: Asset discovery search completed in 20.6813 seconds
+[2022.04.07-19.26.31:001][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.04.07-19.26.31:054][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.04.07-19.26.31:156][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.07-19.26.31:616][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_1m_RH.ALS_N_Mantle_1m_RH
+[2022.04.07-19.26.31:738][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_CLF_GetUp_Front.ALS_CLF_GetUp_Front
+[2022.04.07-19.26.31:738][  2]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.07-19.26.31:956][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_CLF_GetUp_Back.ALS_CLF_GetUp_Back
+[2022.04.07-19.26.32:143][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/Props/Meshes/Bow_Draw.Bow_Draw
+[2022.04.07-19.26.32:208][ 24]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/AimOffsets/ALS_N_Look_U_Sweep.ALS_N_Look_U_Sweep
+[2022.04.07-19.26.32:371][ 29]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/AimOffsets/ALS_N_Look_D_Sweep.ALS_N_Look_D_Sweep
+[2022.04.07-19.26.32:378][ 29]LogNavigationDataBuild: Navigation data generation finished in /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.
+[2022.04.07-19.26.32:562][ 40]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_R.ALS_N_LeanPose_R
+[2022.04.07-19.26.32:579][ 41]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_L.ALS_N_LeanPose_L
+[2022.04.07-19.26.32:606][ 42]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_F.ALS_N_LeanPose_F
+[2022.04.07-19.26.32:614][ 43]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_B.ALS_N_LeanPose_B
+[2022.04.07-19.26.32:633][ 44]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_0.ALS_N_LeanPose_0
+[2022.04.07-19.26.32:646][ 45]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_RF.ALS_N_Run_RF
+[2022.04.07-19.26.32:652][ 45]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_LF.ALS_N_Run_LF
+[2022.04.07-19.26.32:898][ 60]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_F.ALS_N_Run_F
+[2022.04.07-19.26.33:020][ 66]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkPose_L.ALS_N_WalkPose_L
+[2022.04.07-19.26.33:089][ 70]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_RunPose_L.ALS_N_RunPose_L
+[2022.04.07-19.26.33:107][ 71]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_RB.ALS_N_Run_RB
+[2022.04.07-19.26.33:184][ 76]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkPose_R.ALS_N_WalkPose_R
+[2022.04.07-19.26.33:268][ 81]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_RunPose_R.ALS_N_RunPose_R
+[2022.04.07-19.26.33:306][ 83]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_LB.ALS_N_Run_LB
+[2022.04.07-19.26.33:306][ 83]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_WalkPose_F.ALS_N_WalkPose_F
+[2022.04.07-19.26.33:497][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Run_B.ALS_N_Run_B
+[2022.04.07-19.26.33:497][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_RunPose_F.ALS_N_RunPose_F
+[2022.04.07-19.26.33:549][ 97]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_R.ALS_N_Falling_LeanPose_R
+[2022.04.07-19.26.33:574][100]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_L.ALS_N_Falling_LeanPose_L
+[2022.04.07-19.26.33:582][101]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_F.ALS_N_Falling_LeanPose_F
+[2022.04.07-19.26.33:601][102]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_B.ALS_N_Falling_LeanPose_B
+[2022.04.07-19.26.33:601][102]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_0.ALS_N_Falling_LeanPose_0
+[2022.04.07-19.26.33:613][103]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Torch/ALS_Props_Torch_Poses.ALS_Props_Torch_Poses
+[2022.04.07-19.26.33:613][103]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Torch/ALS_Props_Torch_Aim_Sweep_Crouched.ALS_Props_Torch_Aim_Sweep_Crouched
+[2022.04.07-19.26.33:820][121]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Torch/ALS_Props_Torch_Aim_Sweep.ALS_Props_Torch_Aim_Sweep
+[2022.04.07-19.26.34:079][132]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Torch/ALS_Props_Torch_Poses_NoCurves.ALS_Props_Torch_Poses_NoCurves
+[2022.04.07-19.26.34:163][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_Normal.ALS_StanceVariation_Normal
+[2022.04.07-19.26.34:163][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_Masculine.ALS_StanceVariation_Masculine
+[2022.04.07-19.26.34:246][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_Injured.ALS_StanceVariation_Injured
+[2022.04.07-19.26.34:246][133]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_HandsTied.ALS_StanceVariation_HandsTied
+[2022.04.07-19.26.34:328][134]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/StanceVariations/ALS_StanceVariation_Feminine.ALS_StanceVariation_Feminine
+[2022.04.07-19.26.34:328][134]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Shared/ALS_N_SecondaryMotion.ALS_N_SecondaryMotion
+[2022.04.07-19.26.34:462][136]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_2H_Poses.ALS_Props_Pistol_2H_Poses
+[2022.04.07-19.26.34:514][139]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_2H_Aim_Sweep_Crouched.ALS_Props_Pistol_2H_Aim_Sweep_Crouched
+[2022.04.07-19.26.34:665][149]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_2H_Aim_Sweep.ALS_Props_Pistol_2H_Aim_Sweep
+[2022.04.07-19.26.34:845][160]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_2H_Poses_NoCurves.ALS_Props_Pistol_2H_Poses_NoCurves
+[2022.04.07-19.26.34:954][166]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_1H_Poses.ALS_Props_Pistol_1H_Poses
+[2022.04.07-19.26.34:987][168]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_1H_Aim_Sweep_Crouched.ALS_Props_Pistol_1H_Aim_Sweep_Crouched
+[2022.04.07-19.26.35:150][177]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_1H_Aim_Sweep.ALS_Props_Pistol_1H_Aim_Sweep
+[2022.04.07-19.26.35:363][190]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Pistol/ALS_Props_Pistol_1H_Poses_NoCurves.ALS_Props_Pistol_1H_Poses_NoCurves
+[2022.04.07-19.26.35:412][195]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Sprint_F_Impulse_Arms.ALS_Props_M4A1_Sprint_F_Impulse_Arms
+[2022.04.07-19.26.35:462][199]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Sprint_F_Arms.ALS_Props_M4A1_Sprint_F_Arms
+[2022.04.07-19.26.35:494][202]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Run_F_Arms.ALS_Props_M4A1_Run_F_Arms
+[2022.04.07-19.26.35:563][208]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses.ALS_Props_M4A1_Poses
+[2022.04.07-19.26.35:639][214]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Aim_Sweep_Crouched.ALS_Props_M4A1_Aim_Sweep_Crouched
+[2022.04.07-19.26.35:798][226]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Aim_Sweep.ALS_Props_M4A1_Aim_Sweep
+[2022.04.07-19.26.35:961][239]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves.ALS_Props_M4A1_Poses_NoCurves
+[2022.04.07-19.26.36:054][246]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Box/ALS_Props_Box_Poses.ALS_Props_Box_Poses
+[2022.04.07-19.26.36:095][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Bow/ALS_Props_Bow_Poses.ALS_Props_Bow_Poses
+[2022.04.07-19.26.36:139][254]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Bow/ALS_Props_Bow_Aim_Sweep_Crouched.ALS_Props_Bow_Aim_Sweep_Crouched
+[2022.04.07-19.26.36:294][267]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Bow/ALS_Props_Bow_Aim_Sweep.ALS_Props_Bow_Aim_Sweep
+[2022.04.07-19.26.36:500][286]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Bow/ALS_Props_Bow_Poses_NoCurves.ALS_Props_Bow_Poses_NoCurves
+[2022.04.07-19.26.36:577][294]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Binoculars/ALS_Props_Binoculars_Poses.ALS_Props_Binoculars_Poses
+[2022.04.07-19.26.36:612][297]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Binoculars/ALS_Props_Binoculars_Aim_Sweep_Crouched.ALS_Props_Binoculars_Aim_Sweep_Crouched
+[2022.04.07-19.26.36:730][307]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Binoculars/ALS_Props_Binoculars_Aim_Sweep.ALS_Props_Binoculars_Aim_Sweep
+[2022.04.07-19.26.36:903][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Binoculars/ALS_Props_Binoculars_Poses_NoCurves.ALS_Props_Binoculars_Poses_NoCurves
+[2022.04.07-19.26.36:999][334]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/Barrel/ALS_Props_Barrel_Poses.ALS_Props_Barrel_Poses
+[2022.04.07-19.26.36:999][334]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_TurnIP_R90.ALS_N_TurnIP_R90
+[2022.04.07-19.26.37:154][350]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_TurnIP_R180.ALS_N_TurnIP_R180
+[2022.04.07-19.26.37:322][361]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_TurnIP_L90.ALS_N_TurnIP_L90
+[2022.04.07-19.26.37:540][383]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_TurnIP_L180.ALS_N_TurnIP_L180
+[2022.04.07-19.26.37:722][400]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_Rotate_R90.ALS_N_Rotate_R90
+[2022.04.07-19.26.37:873][414]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_N_Rotate_L90.ALS_N_Rotate_L90
+[2022.04.07-19.26.37:983][423]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_TurnIP_R90.ALS_CLF_TurnIP_R90
+[2022.04.07-19.26.38:140][439]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_TurnIP_R180.ALS_CLF_TurnIP_R180
+[2022.04.07-19.26.38:350][460]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_TurnIP_L90.ALS_CLF_TurnIP_L90
+[2022.04.07-19.26.38:519][474]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_TurnIP_L180.ALS_CLF_TurnIP_L180
+[2022.04.07-19.26.38:707][489]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_Rotate_R90.ALS_CLF_Rotate_R90
+[2022.04.07-19.26.38:843][503]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/TurnInPlace/ALS_CLF_Rotate_L90.ALS_CLF_Rotate_L90
+[2022.04.07-19.26.38:948][513]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Transition_R.ALS_N_Transition_R
+[2022.04.07-19.26.39:319][545]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Transition_L.ALS_N_Transition_L
+[2022.04.07-19.26.39:850][589]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_to_CLF.ALS_N_to_CLF
+[2022.04.07-19.26.40:049][604]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Stop_R_Down.ALS_N_Stop_R_Down
+[2022.04.07-19.26.40:443][636]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Stop_L_Down.ALS_N_Stop_L_Down
+[2022.04.07-19.26.40:987][680]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_CLF_to_N.ALS_CLF_to_N
+[2022.04.07-19.26.41:204][700]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LocoDetail_Accel_R.ALS_N_LocoDetail_Accel_R
+[2022.04.07-19.26.41:331][711]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LocoDetail_Accel_L.ALS_N_LocoDetail_Accel_L
+[2022.04.07-19.26.41:389][716]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LocoDetail_Accel_F.ALS_N_LocoDetail_Accel_F
+[2022.04.07-19.26.41:472][723]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LocoDetail_Accel_B.ALS_N_LocoDetail_Accel_B
+[2022.04.07-19.26.41:543][729]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_Run_BasePose.ALS_N_Run_BasePose
+[2022.04.07-19.26.41:566][732]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_RF.ALS_N_Walk_RF
+[2022.04.07-19.26.41:664][739]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_RB.ALS_N_Walk_RB
+[2022.04.07-19.26.41:799][752]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_LF.ALS_N_Walk_LF
+[2022.04.07-19.26.41:900][762]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_LB.ALS_N_Walk_LB
+[2022.04.07-19.26.42:029][775]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_F.ALS_N_Walk_F
+[2022.04.07-19.26.42:149][787]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_B.ALS_N_Walk_B
+[2022.04.07-19.26.42:243][796]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F_Impulse.ALS_N_Sprint_F_Impulse
+[2022.04.07-19.26.42:324][799]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Sprint_F.ALS_N_Sprint_F
+[2022.04.07-19.26.42:410][804]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_R.ALS_CRF_Walk_R
+[2022.04.07-19.26.42:501][810]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CRF_Walk_L.ALS_CRF_Walk_L
+[2022.04.07-19.26.42:623][823]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_WalkPose.ALS_CLF_WalkPose
+[2022.04.07-19.26.42:657][825]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_R.ALS_CLF_Walk_R
+[2022.04.07-19.26.42:757][834]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_L.ALS_CLF_Walk_L
+[2022.04.07-19.26.42:905][844]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_F.ALS_CLF_Walk_F
+[2022.04.07-19.26.42:997][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_CLF_Walk_B.ALS_CLF_Walk_B
+[2022.04.07-19.26.43:116][865]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Light_Additive.ALS_N_Land_Light_Additive
+[2022.04.07-19.26.43:330][884]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Light.ALS_N_Land_Light
+[2022.04.07-19.26.43:559][908]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Heavy_Additive.ALS_N_Land_Heavy_Additive
+[2022.04.07-19.26.43:812][931]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Heavy.ALS_N_Land_Heavy
+[2022.04.07-19.26.43:964][947]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpWalk_RF.ALS_N_JumpWalk_RF
+[2022.04.07-19.26.44:145][965]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpWalk_LF.ALS_N_JumpWalk_LF
+[2022.04.07-19.26.44:288][980]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpRun_RF.ALS_N_JumpRun_RF
+[2022.04.07-19.26.44:479][999]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpRun_LF.ALS_N_JumpRun_LF
+[2022.04.07-19.26.44:608][ 12]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_JumpLoop.ALS_N_JumpLoop
+[2022.04.07-19.26.44:712][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop_Fast.ALS_N_FallLoop_Fast
+[2022.04.07-19.26.44:793][ 30]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_FallLoop.ALS_N_FallLoop
+[2022.04.07-19.26.44:885][ 40]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_Flail.ALS_Flail
+[2022.04.07-19.26.44:946][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/BasePoses/ALS_CLF_Pose.ALS_CLF_Pose
+[2022.04.07-19.26.44:981][ 50]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/AimOffsets/ALS_N_Look_F_Sweep.ALS_N_Look_F_Sweep
+[2022.04.07-19.26.45:101][ 61]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/BasePoses/ALS_N_Pose.ALS_N_Pose
+[2022.04.07-19.28.13:455][443]LogDerivedDataCache: C:/Users/darkez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.655 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.07-19.29.37:627][ 53]MapCheck: New page: Map Check
+[2022.04.07-19.29.37:646][ 53]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.07-19.29.37:649][ 53]LightingResults: New page: Lighting Build - 7 kwi 2022, 23:29:37
+[2022.04.07-19.29.37:781][ 53]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.04.07-19.29.38:134][ 53]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.04.07-19.29.38:159][ 53]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.04.07-19.29.39:198][ 53]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.04.07-19.29.39:198][ 53]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21252
+[2022.04.07-19.29.41:665][ 53]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.04.07-19.29.41:666][ 53]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.04.07-19.29.41:666][ 53]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.04.07-19.29.41:666][ 53]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.04.07-19.29.41:666][ 53]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.04.07-19.29.41:666][ 53]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.04.07-19.29.41:912][ 53]LogEditorBuildUtils: Build time 0:04
+[2022.04.07-19.29.41:935][ 53]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_7 in PCD3D_SM5, Default, SM5 (DDC key hash: F5C444225802EA085047B5B52EC5338D6F94EA94), compiling. 
+[2022.04.07-19.29.41:948][ 53]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_7 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E08DA1CAED37F532E1AE0964F0A47FDFA49B64C), compiling. 
+[2022.04.07-19.29.42:013][ 54]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E3D0DC45B5662DA9FDCD646A16A4DFA3D2DDFA35), compiling. 
+[2022.04.07-19.29.42:026][ 54]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 70B83BD20276746F6AA2357F58FC9C852EBBE083), compiling. 
+[2022.04.07-19.29.42:147][ 55]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 901E38A674CC9E1328D7B0C07EAE2FBA4CE98E7F), compiling. Is special engine material.
+[2022.04.07-19.29.42:190][ 55]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5F13967C028C1AF9F59E820DE2BEBD4EEF549D14), compiling. Is special engine material.
